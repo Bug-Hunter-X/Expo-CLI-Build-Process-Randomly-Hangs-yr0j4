@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an error related to the expo-cli.  The error message was vague and didn't pinpoint the exact issue. The build process would hang indefinitely, and the only way to stop it was by manually interrupting the process. This behavior was inconsistent and occurred randomly, even when no code changes were made.
